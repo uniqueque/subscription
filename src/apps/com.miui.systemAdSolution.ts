@@ -11,13 +11,9 @@ export default defineAppConfig({
       key: 0,
       name: '开屏广告',
       desc: '点击【跳过广告】',
-      activityIds: [
-        'com.miui.systemAdSolution',
-      ],
+      activityIds: ['com.miui.systemAdSolution'],
       rules: '[id="com.miui.systemAdSolution:id/view_skip_button"]',
-      snapshotUrls: [
-        'https://i.gkd.li/import/14742557',
-      ],
+      snapshotUrls: ['https://i.gkd.li/import/14742557'],
     },
     {
       key: 1,
