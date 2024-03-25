@@ -16,7 +16,7 @@ export default defineAppConfig({
       ],
       rules: '[id="com.miui.systemAdSolution:id/view_skip_button"]',
       snapshotUrls: [
-        'https://i.gkd.li/snapshot/1711361763382',
+        'https://i.gkd.li/i/14742557',
       ],
     },
     {
