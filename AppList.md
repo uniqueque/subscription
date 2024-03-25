@@ -318,7 +318,7 @@
 | 咪咕视频               | [com.cmcc.cmvideo](/docs/com.cmcc.cmvideo.md)                                                                                                                     | 5      |
 | 咪咕音乐               | [cmccwm.mobilemusic](/docs/cmccwm.mobilemusic.md)                                                                                                                 | 1      |
 | 米家                   | [com.xiaomi.smarthome](/docs/com.xiaomi.smarthome.md)                                                                                                             | 2      |
-| miui系统广告           | [com.miui.systemAdSolution](/docs/com.miui.systemAdSolution.md)                                                                                                   | 1      |
+| miui系统广告           | [com.miui.systemAdSolution](/docs/com.miui.systemAdSolution.md)                                                                                                   | 2      |
 | miui主题壁纸           | [com.android.thememanager](/docs/com.android.thememanager.md)                                                                                                     | 2      |
 | 蜜雪冰城               | [com.mxbc.mxsa](/docs/com.mxbc.mxsa.md)                                                                                                                           | 1      |
 | 蜜雪冰城鸿蒙版         | [com.mxbc.ohsa](/docs/com.mxbc.ohsa.md)                                                                                                                           | 1      |
